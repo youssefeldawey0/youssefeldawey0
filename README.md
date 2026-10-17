@@ -163,6 +163,47 @@
 - 🌐 Responsive Arabic right-to-left interface
 - 🌙 Custom dark theme, interactive navigation, and scroll animations
 
+---
+### 🛒 [Customer Segmentation & Marketing Analytics](https://github.com/youssefeldawey0/Marketing-Campaign-ML-Pipeline)
+
+> An end-to-end machine learning pipeline combining customer segmentation with an interactive Streamlit dashboard for exploring and predicting customer segments.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square\&logo=pandas\&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square\&logo=scikitlearn\&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square\&logo=streamlit\&logoColor=white)
+
+* 📊 Exploratory data analysis and customer feature engineering
+* 🧩 K-Means clustering with elbow method and silhouette score evaluation
+* 📈 Customer segment profiling and behavioral analysis
+* 🌲 Random Forest classifier trained to reproduce cluster assignments
+* ⚙️ Preprocessing pipelines and GridSearchCV
+* 🖥️ Interactive dashboard for individual predictions, segment profiles, and batch CSV predictions
+
+---
+
+### 💳 [Credit Card Customer Segmentation](https://github.com/youssefeldawey0/Credit-card-customer-segmentation)
+
+> An unsupervised machine learning project that groups credit card customers according to their account information and spending behavior using K-Means clustering, with a Random Forest classifier to assign new customers to existing segments through a Streamlit application.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square\&logo=pandas\&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square\&logo=numpy\&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square\&logo=scikitlearn\&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square\&logo=streamlit\&logoColor=white)
+
+* 📊 Exploratory data analysis and preprocessing of credit card customer data
+* 🧩 K-Means clustering to identify customers with similar financial behavior
+* 🔬 Principal Component Analysis (PCA) for dimensionality reduction and data exploration
+* 🌲 Random Forest classifier trained to assign new customers to learned segments
+* 📈 Customer cluster profiles based on average feature values
+* 🖥️ Streamlit application for uploading customer CSV files and predicting segment IDs
+* 📥 Downloadable CSV results for further analysis
+* 🎯 Behavioral segmentation to support customer analytics, marketing strategies, and service personalization
+
+**Note:** This project performs customer segmentation, not credit card fraud detection. Segment IDs such as `0` and `1` represent groups discovered by K-Means; they do not indicate fraudulent or legitimate transactions.
+
+**Technologies:** Python, Pandas, NumPy, Scikit-learn, PCA, K-Means, Random Forest, Joblib, Streamlit.
 
 
 ---
