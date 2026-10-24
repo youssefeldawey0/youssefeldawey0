@@ -76,6 +76,24 @@
 - 🗄️ Relational database design, ERD, and requirements documentation
 
 ---
+### ✍️ [Air Draw — Real-Time Hand Gesture Drawing](https://github.com/youssefeldawey0/air-draw)
+
+> An interactive computer vision application that lets users draw in the air using their index finger and a webcam, with real-time hand tracking powered by MediaPipe and a Streamlit interface.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logo=google&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+
+- 🖐️ Real-time hand landmark detection using MediaPipe
+- ✍️ Gesture-controlled drawing, hovering, and erasing
+- 🎨 Customizable brush color, thickness, and smoothing
+- 🦴 Optional hand skeleton visualization
+- 📥 Canvas clearing and drawing export as PNG
+- 🌐 Interactive browser interface using Streamlit and WebRTC
+
+---
+
 
 ### ❤️ [Heart Disease Prediction Using Machine Learning](https://github.com/youssefeldawey0/heart_disease.mL.py)
 
