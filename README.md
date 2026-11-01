@@ -59,6 +59,26 @@
 
 ## 🚀 Projects
 
+---
+
+### 🔐 [AI-Powered Face Recognition Security Monitor](https://github.com/youssefeldawey0/security-alert-system.cv.git)
+
+> A Python-based security monitoring system that recognizes known faces and uses YOLO to detect people from webcam frames.
+
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white)
+![DeepFace](https://img.shields.io/badge/DeepFace-Face%20Recognition-00A98F)
+![Ultralytics](https://img.shields.io/badge/Ultralytics-YOLO-111F68)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?logo=jupyter&logoColor=white)
+
+- 👤 Recognizes known faces using DeepFace and local reference photos
+- 🚨 Detects people and flags frames with unknown or undetected faces
+- 🖼️ Enhances frames with denoising, contrast adjustment, and sharpening
+- 📧 Sends security alerts through Gmail
+- 📷 Monitors webcam frames using OpenCV
+
+---
+
 ### 🏥 [Hospital Management System](https://github.com/youssefeldawey0/hospital-management-system)
 
 > A desktop-based hospital management application developed using Python, Tkinter, and MySQL to streamline hospital operations through a graphical user interface.
